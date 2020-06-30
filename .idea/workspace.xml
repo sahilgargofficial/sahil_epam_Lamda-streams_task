@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d6dbad72-fa4b-42fb-b363-f875f357e5f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1e1kjdyJ0oR20O1VNiidlthg121" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Application.palindromeStrings">
+    <configuration name="exactlyThreeLetters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.exactlyThreeLetters" />
+      <module name="Lambdas_And_Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="listAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.listAverage" />
+      <module name="Lambdas_And_Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindromeStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.palindromeStrings" />
+      <module name="Lambdas_And_Streams" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.palindromeStrings" />
+        <item itemvalue="Application.listAverage" />
+        <item itemvalue="Application.exactlyThreeLetters" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d6dbad72-fa4b-42fb-b363-f875f357e5f0" name="Default Changelist" comment="" />
+      <created>1592916217946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592916217946</updated>
+      <workItem from="1593496628818" duration="233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1593496645019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="255" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1593496645019" />
+    <state x="409" y="32" key="#exactlyThreeLetters" timestamp="1593496787058">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="32" key="#exactlyThreeLetters/0.0.1366.728@0.0.1366.728" timestamp="1593496787058" />
+    <state x="409" y="32" key="#listAverage" timestamp="1593496847814">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="32" key="#listAverage/0.0.1366.728@0.0.1366.728" timestamp="1593496847814" />
+    <state x="409" y="32" key="#palindromeStrings" timestamp="1593496861993">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="409" y="32" key="#palindromeStrings/0.0.1366.728@0.0.1366.728" timestamp="1593496861993" />
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom" timestamp="1593496871808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593496871808" />
+    <state width="1323" height="178" key="GridCell.Tab.0.center" timestamp="1593496871808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593496871808" />
+    <state width="1323" height="178" key="GridCell.Tab.0.left" timestamp="1593496871807">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593496871807" />
+    <state width="1323" height="178" key="GridCell.Tab.0.right" timestamp="1593496871808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="178" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593496871808" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/example/palindromeStrings.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
